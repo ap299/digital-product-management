@@ -19,7 +19,7 @@ Node.js installed on your system
 MongoDB installed and running
 Installation
 Clone the repository:
-
+https://github.com/ap299/digital-product-management.git
 cd node-product-management-api
 Install Node.js dependencies:
 npm install
